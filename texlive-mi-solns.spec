@@ -1,6 +1,6 @@
 Name:		texlive-mi-solns
 Version:	49651
-Release:	1
+Release:	2
 Summary:	Extract solutions from exercises and quizzes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mi-solns
