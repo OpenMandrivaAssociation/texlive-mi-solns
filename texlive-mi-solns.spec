@@ -3,7 +3,7 @@ Version:	49651
 Release:	2
 Summary:	Extract solutions from exercises and quizzes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mi-solns
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mi-solns
 License:	lppl1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mi-solns.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mi-solns.doc.r%{version}.tar.xz
